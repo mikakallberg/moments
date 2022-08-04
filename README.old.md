@@ -1,2 +1,0 @@
-# moments
-React walkthru
